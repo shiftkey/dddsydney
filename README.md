@@ -41,5 +41,5 @@ Things I didn't get around to covering:
 
 ## TODO: include/blog the things I covered during the talk:
 
-Notifications - how to quickly add those to an app
-Search (oops, missed these) - how to quickly add it to an app
+ - Notifications - how to quickly add those to an app
+ - Search (oops, missed these) - how to quickly add it to an app
