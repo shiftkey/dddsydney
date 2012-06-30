@@ -37,3 +37,9 @@ Things I didn't get around to covering:
 [Deploying Win8 Apps in the Enterprise](http://blogs.msdn.com/b/windowsstore/archive/2012/04/25/deploying-metro-style-apps-to-businesses.aspx) - how Win 8 Metro Apps can be deployed in the enterprise
 
 [Registering for an App Token](http://win8.msregistration.com/) - under App Profiles
+
+
+## TODO: include/blog the things I covered during the talk:
+
+Notifications - how to quickly add those to an app
+Search (oops, missed these) - how to quickly add it to an app
