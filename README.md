@@ -35,3 +35,5 @@ Things I didn't get around to covering:
 [NotifyPropertyWeaver](http://code.google.com/p/notifypropertyweaver) - IL weave your INotifyPropertyChanged code 
 
 [Deploying Win8 Apps in the Enterprise](http://blogs.msdn.com/b/windowsstore/archive/2012/04/25/deploying-metro-style-apps-to-businesses.aspx) - how Win 8 Metro Apps can be deployed in the enterprise
+
+[Registering for an App Token](http://win8.msregistration.com/) - under App Profiles
